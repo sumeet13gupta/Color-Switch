@@ -1,0 +1,3 @@
+the resolution has not been made device adaptable.
+will work perfectly in a device of resolution 1080X2400 for now.... can be resolved !
+
