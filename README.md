@@ -5,4 +5,5 @@ Switch.apk is the build file .
 Test,apk is testing app build.
 
 # Screenshots 
-![alt text](https://https://github.com/sumeet13gupta/Color-Switch/blob/main/Screenshots/Capture1.PNG?raw=true)
+![alt text](https://github.com/sumeet13gupta/Color-Switch/blob/main/Screenshots/Capture2.PNG)
+![alt text](https://github.com/sumeet13gupta/Color-Switch/blob/main/Screenshots/Capture3.PNG)
